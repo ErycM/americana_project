@@ -1,5 +1,0 @@
-{
-    "jupyter.jupyterServerType": "local",
-    "jupyter.maxOutputSize": 5000000000,
-    "jupyter.textOutputLimit": 30000000000
-}
