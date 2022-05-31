@@ -1,1 +1,1 @@
-# B2W CHALLENGE
+Sales forecasting training project
